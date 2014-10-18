@@ -3,8 +3,4 @@
 This repository will be used to store all of the software written for our embedded system.
 
 Authors
-    -Jeffrey Bolin
-    -Eric Taba
-    -Grant Apodaca
-    -Richie
-    -Evan
+Jeffrey Bolin, Eric Taba, Grant Apodaca, Richie, Evan
